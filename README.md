@@ -36,6 +36,8 @@ Siga os passos abaixo para garantir o funcionamento correto:
 
 ##  Observações Importantes
 
+* ** Existe uma aba onde esta o raciocínio por trás da aplicação ela se chama background e esta ocultada para melhorar a experiencia do usuário . 
+
 *   **Fórmulas Protegidas:** Algumas células com fórmulas matemáticas complexas podem estar bloqueadas para evitar exclusões acidentais.
 
 ---
